@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneync",
+        "uuid": 42414515,
+        "checksum": "pndjz4"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
